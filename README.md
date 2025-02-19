@@ -71,7 +71,7 @@ Os pinos dos eixos X e Y são definidos como periféricos ADC. Dessa forma, reto
 Ilustra a posição atual (correspondente à variação do _joystick_) de um quadrado 8x8. Quando o programa reinicia para o modo de gravação, uma mensagem é exibida para o usuário.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/cfbe2417-2fea-4db1-84d9-cc32e4154648" width="400"/>
+  <img src="https://github.com/user-attachments/assets/cfbe2417-2fea-4db1-84d9-cc32e4154648" width="300"/>
 </div>
 
 ### 6. Interrupções
