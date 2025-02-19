@@ -21,7 +21,7 @@ __Para este trabalho, os seguintes componentes e ferramentas se fazem necessári
 6) _Joystick_
 7) Ferramenta educacional BitDogLab.
 
-__O resultado do projeto pode ser assistido através deste link: [U4C8 - Conversores A/D]().__
+__O resultado do projeto pode ser assistido através deste link: [U4C8 - Conversores A/D](https://youtu.be/X_Vi7YLlsM8).__
 
 ## Instruções de Uso
 
@@ -69,6 +69,10 @@ Os pinos dos eixos X e Y são definidos como periféricos ADC. Dessa forma, reto
 ### 5. Display SSD1306
 
 Ilustra a posição atual (correspondente à variação do _joystick_) de um quadrado 8x8. Quando o programa reinicia para o modo de gravação, uma mensagem é exibida para o usuário.
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/cfbe2417-2fea-4db1-84d9-cc32e4154648" width="400"/>
+</div>
 
 ### 6. Interrupções
 
