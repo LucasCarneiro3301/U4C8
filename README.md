@@ -52,6 +52,7 @@ Certifique-se de que o [SDK do Raspberry Pi Pico](https://github.com/raspberrypi
 |:----------------------------------:|:---------------------------------------------:|
 | A                                  | Desativa os LEDs PWM                 | 
 | B                                  | Reinicia para o modo de gravação               | 
+| JOYSTICK                                  | Altera o estado do LED verde e muda a borda do _display_              | 
 
 ### 2. PWM
 
