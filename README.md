@@ -21,7 +21,7 @@ __Para este trabalho, os seguintes componentes e ferramentas se fazem necessári
 6) _Joystick_
 7) Ferramenta educacional BitDogLab.
 
-__O resultado do projeto pode ser assistido através deste link: [U4C8 - Conversores A/D](https://youtu.be/X_Vi7YLlsM8).__
+__O resultado do projeto pode ser assistido através deste link: [Projeto de Sistema Embarcado](https://youtu.be/X_Vi7YLlsM8).__
 
 ## Instruções de Uso
 
